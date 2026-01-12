@@ -1,1 +1,1 @@
-# FinAI
+FinAI is a cloud-native AI accounting and compliance OS for modern businesses. It automates bookkeeping, GST/MCA filings, bank reconciliation, document OCR, and cash-flow insights. Built for founders and CAs with real-time collaboration, secure audit archive, and an AI assistant eliminating penalties and manual work.
